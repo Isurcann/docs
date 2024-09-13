@@ -1,4 +1,4 @@
----
+esc
 title: Configuring the self-hosted runner application as a service
 shortTitle: Run the runner app as a service
 intro: You can configure the self-hosted runner application as a service to automatically start the runner application when the machine starts.
